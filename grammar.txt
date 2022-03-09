@@ -1,0 +1,19 @@
+Variable = v rand_var : value
+
+Function [1 Line] = fn function_name(param) -> param + value
+
+Function [Multiline] = fn function_name(param)
+                            return param
+
+For Loop = floop i:0 TO x then
+               do something
+           stop
+
+While loop = wloop(condition) then
+                do something
+
+
+Append = push
+
+Return = provide
+
